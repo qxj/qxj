@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-alpha2](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-alpha2), 4 months ago) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-beta0](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-beta0), today) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
 
 #### 🔨 My recent Pull Requests
 
@@ -39,7 +39,7 @@
 - [changgyhub/leetcode_101](https://github.com/changgyhub/leetcode_101) - LeetCode 101：和你一起你轻松刷题（C&#43;&#43;） (7 months ago)
 - [AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard](https://github.com/AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard) - A simple lua-based dashboard for the OpenTX XLite/QX7 Transmitters (11 months ago)
 - [FASTSHIFT/X-CTRL](https://github.com/FASTSHIFT/X-CTRL) - Open-source model remote controller (11 months ago)
-- [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5) - Code for building ConceptNet from raw data. (11 months ago)
+- [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5) - Code for building ConceptNet from raw data. (1 year ago)
 
 #### 📫 How to reach me
 
