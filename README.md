@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-beta0](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-beta0), 4 days ago) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-beta0](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-beta0), 5 days ago) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
 
 #### 🔨 My recent Pull Requests
 
@@ -30,16 +30,16 @@
 
 #### ⭐ Recent Stars
 
+- [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (1 day ago)
+- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for ESP32. (1 day ago)
 - [pitronicteam/SG325](https://github.com/pitronicteam/SG325) - 由SumGle主持设计的机架 (1 week ago)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio (1 month ago)
 - [facebookresearch/moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722 (1 month ago)
 - [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (3 months ago)
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.  (3 months ago)
-- [tinro/RedGiant](https://github.com/tinro/RedGiant) - A simple, light-weighted indexing and search system designed for small scale personalized recommendation. (3 months ago)
+- [tinro/RedGiant](https://github.com/tinro/RedGiant) - A simple, light-weighted indexing and search system designed for small scale personalized recommendation. (4 months ago)
 - [changgyhub/leetcode_101](https://github.com/changgyhub/leetcode_101) - LeetCode 101：和你一起你轻松刷题（C&#43;&#43;） (7 months ago)
 - [AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard](https://github.com/AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard) - A simple lua-based dashboard for the OpenTX XLite/QX7 Transmitters (11 months ago)
-- [FASTSHIFT/X-CTRL](https://github.com/FASTSHIFT/X-CTRL) - Open-source model remote controller (11 months ago)
-- [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5) - Code for building ConceptNet from raw data. (1 year ago)
 
 #### 📫 How to reach me
 
