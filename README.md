@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-beta0](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-beta0), 6 days ago) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-beta0](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-beta0), 1 week ago) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
 
 #### 🔨 My recent Pull Requests
 
@@ -30,8 +30,8 @@
 
 #### ⭐ Recent Stars
 
-- [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (2 days ago)
-- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (2 days ago)
+- [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (3 days ago)
+- [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (3 days ago)
 - [pitronicteam/SG325](https://github.com/pitronicteam/SG325) - 由SumGle主持设计的机架 (2 weeks ago)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio (1 month ago)
 - [facebookresearch/moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722 (1 month ago)
