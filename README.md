@@ -32,7 +32,7 @@
 
 - [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (1 week ago)
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (1 week ago)
-- [pitronicteam/SG325](https://github.com/pitronicteam/SG325) - 由SumGle主持设计的机架 (2 weeks ago)
+- [pitronicteam/SG325](https://github.com/pitronicteam/SG325) - 由SumGle主持设计的机架 (3 weeks ago)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio (1 month ago)
 - [facebookresearch/moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722 (1 month ago)
 - [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (3 months ago)
