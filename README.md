@@ -38,7 +38,7 @@
 - [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (3 months ago)
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.  (3 months ago)
 - [tinro/RedGiant](https://github.com/tinro/RedGiant) - A simple, light-weighted indexing and search system designed for small scale personalized recommendation. (4 months ago)
-- [changgyhub/leetcode_101](https://github.com/changgyhub/leetcode_101) - LeetCode 101：和你一起你轻松刷题（C&#43;&#43;） (7 months ago)
+- [changgyhub/leetcode_101](https://github.com/changgyhub/leetcode_101) - LeetCode 101：和你一起你轻松刷题（C&#43;&#43;） (8 months ago)
 - [AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard](https://github.com/AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard) - A simple lua-based dashboard for the OpenTX XLite/QX7 Transmitters (11 months ago)
 
 #### 📫 How to reach me
