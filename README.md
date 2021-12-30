@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-beta0](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-beta0), 2 weeks ago) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-beta0](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-beta0), 3 weeks ago) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
 
 #### 🔨 My recent Pull Requests
 
@@ -35,7 +35,7 @@
 - [pitronicteam/SG325](https://github.com/pitronicteam/SG325) - 由SumGle主持设计的机架 (4 weeks ago)
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio (1 month ago)
 - [facebookresearch/moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722 (1 month ago)
-- [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (3 months ago)
+- [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (4 months ago)
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.  (4 months ago)
 - [tinro/RedGiant](https://github.com/tinro/RedGiant) - A simple, light-weighted indexing and search system designed for small scale personalized recommendation. (4 months ago)
 - [changgyhub/leetcode_101](https://github.com/changgyhub/leetcode_101) - LeetCode 101：和你一起你轻松刷题（C&#43;&#43;） (8 months ago)
