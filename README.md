@@ -30,6 +30,7 @@
 
 #### ⭐ Recent Stars
 
+- [kniuk/DIY-Head-Tracker](https://github.com/kniuk/DIY-Head-Tracker) - Head tracker for RC FPV purposes. Project father: Denis Frie (1 day ago)
 - [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (4 weeks ago)
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (4 weeks ago)
 - [pitronicteam/SG325](https://github.com/pitronicteam/SG325) - 由SumGle主持设计的机架 (1 month ago)
@@ -39,7 +40,6 @@
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.  (4 months ago)
 - [tinro/RedGiant](https://github.com/tinro/RedGiant) - A simple, light-weighted indexing and search system designed for small scale personalized recommendation. (4 months ago)
 - [changgyhub/leetcode_101](https://github.com/changgyhub/leetcode_101) - LeetCode 101：和你一起你轻松刷题（C&#43;&#43;） (8 months ago)
-- [AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard](https://github.com/AndrewFarley/Taranis-XLite-Q7-Lua-Dashboard) - A simple lua-based dashboard for the OpenTX XLite/QX7 Transmitters (1 year ago)
 
 #### 📫 How to reach me
 
