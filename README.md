@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [kniuk/DIY-Head-Tracker](https://github.com/kniuk/DIY-Head-Tracker) - Head tracker for RC FPV purposes. Project father: Denis Frie (3 days ago)
+- [kniuk/DIY-Head-Tracker](https://github.com/kniuk/DIY-Head-Tracker) - Head tracker for RC FPV purposes. Project father: Denis Frie (4 days ago)
 - [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (1 month ago)
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (1 month ago)
 - [pitronicteam/SG325](https://github.com/pitronicteam/SG325) - 由SumGle主持设计的机架 (1 month ago)
