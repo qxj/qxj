@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。 (2 months ago)
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。 (3 months ago)
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (3 months ago)
 
 #### 🌱 My latest projects
@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [kniuk/DIY-Head-Tracker](https://github.com/kniuk/DIY-Head-Tracker) - Head tracker for RC FPV purposes. Project father: Denis Frie (2 weeks ago)
+- [kniuk/DIY-Head-Tracker](https://github.com/kniuk/DIY-Head-Tracker) - Head tracker for RC FPV purposes. Project father: Denis Frie (3 weeks ago)
 - [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (1 month ago)
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (1 month ago)
 - [pitronicteam/SG325](https://github.com/pitronicteam/SG325) - 由SumGle主持设计的机架 (2 months ago)
