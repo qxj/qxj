@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-beta0](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-beta0), 1 month ago) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-beta0](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-beta0), 2 months ago) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
 
 #### 🔨 My recent Pull Requests
 
@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [kniuk/DIY-Head-Tracker](https://github.com/kniuk/DIY-Head-Tracker) - Head tracker for RC FPV purposes. Project father: Denis Frie (3 weeks ago)
+- [kniuk/DIY-Head-Tracker](https://github.com/kniuk/DIY-Head-Tracker) - Head tracker for RC FPV purposes. Project father: Denis Frie (4 weeks ago)
 - [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (1 month ago)
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (1 month ago)
 - [pitronicteam/SG325](https://github.com/pitronicteam/SG325) - 由SumGle主持设计的机架 (2 months ago)
