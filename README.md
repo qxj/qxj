@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [zhanglele666/loli3_RC](https://github.com/zhanglele666/loli3_RC) - 追梦版本的萝丽三代遥控器项目 (5 days ago)
+- [zhanglele666/loli3_RC](https://github.com/zhanglele666/loli3_RC) - 追梦版本的萝丽三代遥控器项目 (6 days ago)
 - [kniuk/DIY-Head-Tracker](https://github.com/kniuk/DIY-Head-Tracker) - Head tracker for RC FPV purposes. Project father: Denis Frie (2 months ago)
 - [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (3 months ago)
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (3 months ago)
