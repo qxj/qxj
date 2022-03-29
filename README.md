@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [zhanglele666/loli3_RC](https://github.com/zhanglele666/loli3_RC) - 追梦版本的萝丽三代遥控器项目 (6 days ago)
+- [zhanglele666/loli3_RC](https://github.com/zhanglele666/loli3_RC) - 追梦版本的萝丽三代遥控器项目 (1 week ago)
 - [kniuk/DIY-Head-Tracker](https://github.com/kniuk/DIY-Head-Tracker) - Head tracker for RC FPV purposes. Project father: Denis Frie (2 months ago)
 - [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (3 months ago)
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (3 months ago)
@@ -38,7 +38,7 @@
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio (4 months ago)
 - [facebookresearch/moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722 (4 months ago)
 - [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (6 months ago)
-- [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.  (6 months ago)
+- [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.  (7 months ago)
 - [tinro/RedGiant](https://github.com/tinro/RedGiant) - A simple, light-weighted indexing and search system designed for small scale personalized recommendation. (7 months ago)
 
 #### 📫 How to reach me
