@@ -39,7 +39,7 @@
 - [facebookresearch/moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722 (5 months ago)
 - [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (7 months ago)
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.  (7 months ago)
-- [tinro/RedGiant](https://github.com/tinro/RedGiant) - A simple, light-weighted indexing and search system designed for small scale personalized recommendation. (7 months ago)
+- [tinro/RedGiant](https://github.com/tinro/RedGiant) - A simple, light-weighted indexing and search system designed for small scale personalized recommendation. (8 months ago)
 
 #### 📫 How to reach me
 
