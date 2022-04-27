@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad (6 days ago)
+- [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad (1 week ago)
 - [zhanglele666/loli3_RC](https://github.com/zhanglele666/loli3_RC) - 追梦版本的萝丽三代遥控器项目 (1 month ago)
 - [kniuk/DIY-Head-Tracker](https://github.com/kniuk/DIY-Head-Tracker) - Head tracker for RC FPV purposes. Project father: Denis Frie (3 months ago)
 - [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (4 months ago)
