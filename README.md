@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (1 week ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (1 day ago)
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。 (5 months ago)
 
 #### 🌱 My latest projects
@@ -39,7 +39,7 @@
 - [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio (5 months ago)
 - [facebookresearch/moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722 (5 months ago)
 - [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds: (7 months ago)
-- [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.  (7 months ago)
+- [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.  (8 months ago)
 
 #### 📫 How to reach me
 
