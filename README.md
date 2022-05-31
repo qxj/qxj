@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (3 days ago)
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (4 days ago)
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。 (6 months ago)
+- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (4 days ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (5 days ago)
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。 (7 months ago)
 
 #### 🌱 My latest projects
 
