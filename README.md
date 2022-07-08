@@ -40,7 +40,7 @@
 - [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (6 months ago)
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs. (6 months ago)
 - [pitronicteam/SG325](https://github.com/pitronicteam/SG325) - 由SumGle主持设计的机架 (7 months ago)
-- [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio (7 months ago)
+- [EdgeTX/edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio (8 months ago)
 
 #### 📫 How to reach me
 
