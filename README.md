@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (2 weeks ago)
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (3 weeks ago)
 - [emuflight/EmuFlight](https://github.com/emuflight/EmuFlight) - EmuFlight is flight controller software (firmware) used to fly multi-rotor craft. (3 weeks ago)
 - [liaozhelin/yds-charger](https://github.com/liaozhelin/yds-charger) - 一个精致的多功能四路166W桌面充电器 (2 months ago)
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/ (3 months ago)
