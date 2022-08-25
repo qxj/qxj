@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (2 months ago)
+- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (3 months ago)
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (3 months ago)
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。 (9 months ago)
 
