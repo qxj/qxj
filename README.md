@@ -21,11 +21,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-beta1](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-beta1), 3 weeks ago) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) ([v2.0.0-beta1](https://github.com/d2l-ai/d2l-zh/releases/tag/v2.0.0-beta1), 4 weeks ago) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。
 
 #### 🔨 My recent Pull Requests
 
-- [typo fix](https://github.com/d2l-ai/d2l-zh/pull/999) on [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) (9 months ago)
+- [typo fix](https://github.com/d2l-ai/d2l-zh/pull/999) on [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) (10 months ago)
 - [fix avahi compile error](https://github.com/coolsnowwolf/packages/pull/39) on [coolsnowwolf/packages](https://github.com/coolsnowwolf/packages) (2 years ago)
 - [locate package configuration by name](https://github.com/jwiegley/use-package/pull/191) on [jwiegley/use-package](https://github.com/jwiegley/use-package) (7 years ago)
 
