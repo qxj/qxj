@@ -4,7 +4,7 @@
 
 - [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (3 months ago)
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (3 months ago)
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。 (9 months ago)
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。 (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@
 #### ⭐ Recent Stars
 
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (3 weeks ago)
-- [emuflight/EmuFlight](https://github.com/emuflight/EmuFlight) - EmuFlight is flight controller software (firmware) used to fly multi-rotor craft. (3 weeks ago)
+- [emuflight/EmuFlight](https://github.com/emuflight/EmuFlight) - EmuFlight is flight controller software (firmware) used to fly multi-rotor craft. (4 weeks ago)
 - [liaozhelin/yds-charger](https://github.com/liaozhelin/yds-charger) - 一个精致的多功能四路166W桌面充电器 (2 months ago)
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/ (3 months ago)
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。 (4 months ago)
