@@ -4,7 +4,6 @@
 
 - [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (5 months ago)
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (5 months ago)
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。 (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +29,7 @@
 
 #### ⭐ Recent Stars
 
+- [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示 (1 day ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (1 month ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (3 months ago)
 - [emuflight/EmuFlight](https://github.com/emuflight/EmuFlight) - EmuFlight is flight controller software (firmware) used to fly multi-rotor craft. (3 months ago)
@@ -39,7 +39,6 @@
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad (6 months ago)
 - [zhanglele666/loli3_RC](https://github.com/zhanglele666/loli3_RC) - 追梦版本的萝丽三代遥控器项目 (7 months ago)
 - [kniuk/DIY-Head-Tracker](https://github.com/kniuk/DIY-Head-Tracker) - Head tracker for RC FPV purposes. Project father: Denis Frie (10 months ago)
-- [AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S) - A Mecanum-wheel car based on ESP01S. (10 months ago)
 
 #### 📫 How to reach me
 
