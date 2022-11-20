@@ -30,7 +30,7 @@
 #### ⭐ Recent Stars
 
 - [baidu/lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性 (1 week ago)
-- [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示 (1 week ago)
+- [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示 (2 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 months ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (3 months ago)
 - [emuflight/EmuFlight](https://github.com/emuflight/EmuFlight) - EmuFlight is flight controller software (firmware) used to fly multi-rotor craft. (3 months ago)
