@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (1 day ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (2 days ago)
 - [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (6 months ago)
 
 #### 🌱 My latest projects
@@ -29,9 +29,9 @@
 
 #### ⭐ Recent Stars
 
-- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (1 day ago)
-- [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词 (6 days ago)
-- [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight xray panel with multi-protocol and multi-user on the same port,support English with telegram bot.  (6 days ago)
+- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (2 days ago)
+- [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词 (1 week ago)
+- [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight xray panel with multi-protocol and multi-user on the same port,support English with telegram bot.  (1 week ago)
 - [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站 (1 week ago)
 - [baidu/lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性 (1 month ago)
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示 (1 month ago)
