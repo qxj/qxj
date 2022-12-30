@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (2 weeks ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (3 weeks ago)
 - [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (7 months ago)
 
 #### 🌱 My latest projects
@@ -30,14 +30,14 @@
 #### ⭐ Recent Stars
 
 - [Turing-Project/AntiFraudChatBot](https://github.com/Turing-Project/AntiFraudChatBot) - A simple prompt-chatting AI based on wechaty and fintuned NLP model (2 weeks ago)
-- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (2 weeks ago)
+- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (3 weeks ago)
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词 (3 weeks ago)
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight xray panel with multi-protocol and multi-user on the same port,support English with telegram bot.  (3 weeks ago)
 - [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站 (3 weeks ago)
 - [baidu/lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性 (1 month ago)
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示 (1 month ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 months ago)
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (4 months ago)
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (5 months ago)
 - [emuflight/EmuFlight](https://github.com/emuflight/EmuFlight) - EmuFlight is flight controller software (firmware) used to fly multi-rotor craft. (5 months ago)
 
 #### 📫 How to reach me
