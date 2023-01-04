@@ -29,6 +29,7 @@
 
 #### ⭐ Recent Stars
 
+- [yong-pii/Spark-T12](https://github.com/yong-pii/Spark-T12) - 基于STC8系列的便携式T12电烙铁 (1 day ago)
 - [Turing-Project/AntiFraudChatBot](https://github.com/Turing-Project/AntiFraudChatBot) - A simple prompt-chatting AI based on wechaty and fintuned NLP model (3 weeks ago)
 - [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (3 weeks ago)
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词 (1 month ago)
@@ -38,7 +39,6 @@
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示 (1 month ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 months ago)
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译 (5 months ago)
-- [emuflight/EmuFlight](https://github.com/emuflight/EmuFlight) - EmuFlight is flight controller software (firmware) used to fly multi-rotor craft. (5 months ago)
 
 #### 📫 How to reach me
 
