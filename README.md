@@ -29,7 +29,8 @@
 
 #### ⭐ Recent Stars
 
-- [JifuZhao/DS-Take-Home](https://github.com/JifuZhao/DS-Take-Home) - My solution to the book A Collection of Data Science Take-Home Challenges (2 days ago)
+- [auxten/go-ctr](https://github.com/auxten/go-ctr) - Go DeepLearning based Recommendation Framework (1 day ago)
+- [JifuZhao/DS-Take-Home](https://github.com/JifuZhao/DS-Take-Home) - My solution to the book A Collection of Data Science Take-Home Challenges (3 days ago)
 - [yong-pii/Spark-T12](https://github.com/yong-pii/Spark-T12) - 基于STC8系列的便携式T12电烙铁 (2 weeks ago)
 - [Turing-Project/AntiFraudChatBot](https://github.com/Turing-Project/AntiFraudChatBot) - A simple prompt-chatting AI based on wechaty and fintuned NLP model (1 month ago)
 - [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (1 month ago)
@@ -38,7 +39,6 @@
 - [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站 (1 month ago)
 - [baidu/lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性 (2 months ago)
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示 (2 months ago)
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (4 months ago)
 
 #### 📫 How to reach me
 
