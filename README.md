@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
-- [auxten/go-ctr](https://github.com/auxten/go-ctr) - Go DeepLearning based Recommendation Framework (4 days ago)
-- [JifuZhao/DS-Take-Home](https://github.com/JifuZhao/DS-Take-Home) - My solution to the book A Collection of Data Science Take-Home Challenges (6 days ago)
+- [auxten/go-ctr](https://github.com/auxten/go-ctr) - Go DeepLearning based Recommendation Framework (5 days ago)
+- [JifuZhao/DS-Take-Home](https://github.com/JifuZhao/DS-Take-Home) - My solution to the book A Collection of Data Science Take-Home Challenges (1 week ago)
 - [yong-pii/Spark-T12](https://github.com/yong-pii/Spark-T12) - 基于STC8系列的便携式T12电烙铁 (2 weeks ago)
 - [Turing-Project/AntiFraudChatBot](https://github.com/Turing-Project/AntiFraudChatBot) - A simple prompt-chatting AI based on wechaty and fintuned NLP model (1 month ago)
 - [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (1 month ago)
