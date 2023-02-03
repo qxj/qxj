@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (3 days ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (4 days ago)
 - [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (8 months ago)
 
 #### 🌱 My latest projects
@@ -29,7 +29,8 @@
 
 #### ⭐ Recent Stars
 
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (5 days ago)
+- [Uahh/Slscq](https://github.com/Uahh/Slscq) - 申论生成器( (1 day ago)
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (6 days ago)
 - [auxten/go-ctr](https://github.com/auxten/go-ctr) - Go DeepLearning based Recommendation Framework (2 weeks ago)
 - [JifuZhao/DS-Take-Home](https://github.com/JifuZhao/DS-Take-Home) - My solution to the book A Collection of Data Science Take-Home Challenges (2 weeks ago)
 - [yong-pii/Spark-T12](https://github.com/yong-pii/Spark-T12) - 基于STC8系列的便携式T12电烙铁 (1 month ago)
@@ -38,7 +39,6 @@
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词 (2 months ago)
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and telegram bot.  (2 months ago)
 - [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站 (2 months ago)
-- [baidu/lac](https://github.com/baidu/lac) - 百度NLP：分词，词性标注，命名实体识别，词重要性 (2 months ago)
 
 #### 📫 How to reach me
 
