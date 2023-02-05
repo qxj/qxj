@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (5 days ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (6 days ago)
 - [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (8 months ago)
 
 #### 🌱 My latest projects
@@ -29,7 +29,7 @@
 
 #### ⭐ Recent Stars
 
-- [Uahh/Slscq](https://github.com/Uahh/Slscq) - 申论生成器( (2 days ago)
+- [Uahh/Slscq](https://github.com/Uahh/Slscq) - 申论生成器( (3 days ago)
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (1 week ago)
 - [auxten/go-ctr](https://github.com/auxten/go-ctr) - Go DeepLearning based Recommendation Framework (2 weeks ago)
 - [JifuZhao/DS-Take-Home](https://github.com/JifuZhao/DS-Take-Home) - My solution to the book A Collection of Data Science Take-Home Challenges (2 weeks ago)
