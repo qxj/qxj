@@ -29,7 +29,7 @@
 
 #### ⭐ Recent Stars
 
-- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. (1 day ago)
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. (2 days ago)
 - [tysam-code/hlb-CIFAR10](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 8 seconds on a single A100, the current world record. Or ~95.84% in ~172 seconds (or less!). (1 week ago)
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具 (1 week ago)
 - [Uahh/Slscq](https://github.com/Uahh/Slscq) - 申论生成器( (2 weeks ago)
