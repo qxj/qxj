@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (2 weeks ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (3 weeks ago)
 - [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (8 months ago)
 
 #### 🌱 My latest projects
@@ -29,7 +29,9 @@
 
 #### ⭐ Recent Stars
 
-- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. (2 days ago)
+- [mikeneiderhauser/CRSFJoystick](https://github.com/mikeneiderhauser/CRSFJoystick) - Arduino code that runs on a Pi Pico (2040) to emulate a USB HID Joystick (1 day ago)
+- [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (1 day ago)
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. (3 days ago)
 - [tysam-code/hlb-CIFAR10](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 8 seconds on a single A100, the current world record. Or ~95.84% in ~172 seconds (or less!). (1 week ago)
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具 (1 week ago)
 - [Uahh/Slscq](https://github.com/Uahh/Slscq) - 申论生成器( (2 weeks ago)
@@ -37,8 +39,6 @@
 - [auxten/go-ctr](https://github.com/auxten/go-ctr) - Go DeepLearning based Recommendation Framework (1 month ago)
 - [JifuZhao/DS-Take-Home](https://github.com/JifuZhao/DS-Take-Home) - My solution to the book A Collection of Data Science Take-Home Challenges (1 month ago)
 - [yong-pii/Spark-T12](https://github.com/yong-pii/Spark-T12) - 基于STC8系列的便携式T12电烙铁 (1 month ago)
-- [Turing-Project/AntiFraudChatBot](https://github.com/Turing-Project/AntiFraudChatBot) - A simple prompt-chatting AI based on wechaty and fintuned NLP model (2 months ago)
-- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don&#39;t need a Zsh plugin manager after all... (2 months ago)
 
 #### 📫 How to reach me
 
