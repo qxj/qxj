@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (3 weeks ago)
-- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (8 months ago)
+- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,10 +29,10 @@
 
 #### ⭐ Recent Stars
 
-- [mikeneiderhauser/CRSFJoystick](https://github.com/mikeneiderhauser/CRSFJoystick) - Arduino code that runs on a Pi Pico (2040) to emulate a USB HID Joystick (1 day ago)
-- [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (1 day ago)
-- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. (3 days ago)
-- [tysam-code/hlb-CIFAR10](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 8 seconds on a single A100, the current world record. Or ~95.84% in ~172 seconds (or less!). (1 week ago)
+- [mikeneiderhauser/CRSFJoystick](https://github.com/mikeneiderhauser/CRSFJoystick) - Arduino code that runs on a Pi Pico (2040) to emulate a USB HID Joystick (2 days ago)
+- [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (2 days ago)
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. (4 days ago)
+- [tysam-code/hlb-CIFAR10](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 7 seconds on a single A100, the current world record. Or ~95.80% in ~120 seconds (or less!). (1 week ago)
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具 (1 week ago)
 - [Uahh/Slscq](https://github.com/Uahh/Slscq) - 申论生成器( (2 weeks ago)
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (3 weeks ago)
