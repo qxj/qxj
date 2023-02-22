@@ -29,9 +29,9 @@
 
 #### ⭐ Recent Stars
 
-- [mikeneiderhauser/CRSFJoystick](https://github.com/mikeneiderhauser/CRSFJoystick) - Arduino code that runs on a Pi Pico (2040) to emulate a USB HID Joystick (2 days ago)
-- [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (2 days ago)
-- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. (4 days ago)
+- [mikeneiderhauser/CRSFJoystick](https://github.com/mikeneiderhauser/CRSFJoystick) - Arduino code that runs on a Pi Pico (2040) to emulate a USB HID Joystick (3 days ago)
+- [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (3 days ago)
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. (5 days ago)
 - [tysam-code/hlb-CIFAR10](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 7 seconds on a single A100, the current world record. Or ~95.80% in ~120 seconds (or less!). (1 week ago)
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具 (1 week ago)
 - [Uahh/Slscq](https://github.com/Uahh/Slscq) - 申论生成器( (2 weeks ago)
