@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (3 weeks ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (4 weeks ago)
 - [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (9 months ago)
 
 #### 🌱 My latest projects
@@ -24,7 +24,7 @@
 #### 🔨 My recent Pull Requests
 
 - [typo fix](https://github.com/d2l-ai/d2l-zh/pull/999) on [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) (1 year ago)
-- [fix avahi compile error](https://github.com/coolsnowwolf/packages/pull/39) on [coolsnowwolf/packages](https://github.com/coolsnowwolf/packages) (2 years ago)
+- [fix avahi compile error](https://github.com/coolsnowwolf/packages/pull/39) on [coolsnowwolf/packages](https://github.com/coolsnowwolf/packages) (3 years ago)
 - [locate package configuration by name](https://github.com/jwiegley/use-package/pull/191) on [jwiegley/use-package](https://github.com/jwiegley/use-package) (8 years ago)
 
 #### ⭐ Recent Stars
@@ -35,7 +35,7 @@
 - [tysam-code/hlb-CIFAR10](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 7 seconds on a single A100, the current world record. Or ~95.80% in ~120 seconds (or less!). (2 weeks ago)
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具 (2 weeks ago)
 - [Uahh/Slscq](https://github.com/Uahh/Slscq) - 申论生成器( (3 weeks ago)
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (4 weeks ago)
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (1 month ago)
 - [auxten/go-ctr](https://github.com/auxten/go-ctr) - Go DeepLearning based Recommendation Framework (1 month ago)
 - [JifuZhao/DS-Take-Home](https://github.com/JifuZhao/DS-Take-Home) - My solution to the book A Collection of Data Science Take-Home Challenges (1 month ago)
 - [yong-pii/Spark-T12](https://github.com/yong-pii/Spark-T12) - 基于STC8系列的便携式T12电烙铁 (1 month ago)
