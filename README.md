@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (4 weeks ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (1 month ago)
 - [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (9 months ago)
 
 #### 🌱 My latest projects
@@ -29,7 +29,7 @@
 
 #### ⭐ Recent Stars
 
-- [nolanaatama/sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) -  (1 day ago)
+- [nolanaatama/sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) -  (2 days ago)
 - [mikeneiderhauser/CRSFJoystick](https://github.com/mikeneiderhauser/CRSFJoystick) - Arduino code that runs on a Pi Pico (2040) to emulate a USB HID Joystick (1 week ago)
 - [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (1 week ago)
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. (1 week ago)
