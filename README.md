@@ -29,16 +29,16 @@
 
 #### ⭐ Recent Stars
 
-- [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS &amp; TTS); AAAI 2022; Official code (6 days ago)
+- [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读 (1 day ago)
+- [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS &amp; TTS); AAAI 2022; Official code (1 week ago)
 - [MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector) - MLNLP社区用来更好进行论文搜索的工具。Fully-automated scripts for collecting AI-related papers (1 week ago)
-- [nolanaatama/sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) -  (1 week ago)
+- [nolanaatama/sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) -  (2 weeks ago)
 - [mikeneiderhauser/CRSFJoystick](https://github.com/mikeneiderhauser/CRSFJoystick) - Arduino code that runs on a Pi Pico (2040) to emulate a USB HID Joystick (3 weeks ago)
 - [CapnBry/CRServoF](https://github.com/CapnBry/CRServoF) - CRSF to PWM Servo converter for STM32F103 (3 weeks ago)
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. (3 weeks ago)
 - [tysam-code/hlb-CIFAR10](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 7 seconds on a single A100, the current world record. Or ~95.80% in ~120 seconds (or less!). (1 month ago)
 - [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具 (1 month ago)
 - [Uahh/Slscq](https://github.com/Uahh/Slscq) - 申论生成器( (1 month ago)
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version (1 month ago)
 
 #### 📫 How to reach me
 
