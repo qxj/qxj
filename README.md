@@ -29,7 +29,7 @@
 
 #### ⭐ Recent Stars
 
-- [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读 (1 day ago)
+- [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读 (2 days ago)
 - [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS &amp; TTS); AAAI 2022; Official code (1 week ago)
 - [MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector) - MLNLP社区用来更好进行论文搜索的工具。Fully-automated scripts for collecting AI-related papers (1 week ago)
 - [nolanaatama/sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) -  (2 weeks ago)
