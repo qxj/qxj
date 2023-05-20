@@ -29,16 +29,16 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (5 days ago)
-- [THUDM/P-tuning-v2](https://github.com/THUDM/P-tuning-v2) - An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks (5 days ago)
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (6 days ago)
+- [THUDM/P-tuning-v2](https://github.com/THUDM/P-tuning-v2) - An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks (6 days ago)
 - [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU (1 week ago)
-- [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition. (1 week ago)
+- [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition. (2 weeks ago)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (2 months ago)
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读 (2 months ago)
 - [MoonInTheRiver/DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS &amp; TTS); AAAI 2022; Official code (2 months ago)
 - [MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector) - MLNLP社区用来更好进行论文搜索的工具。Fully-automated scripts for collecting AI-related papers (2 months ago)
 - [nolanaatama/sd-1click-colab](https://github.com/nolanaatama/sd-1click-colab) -  (2 months ago)
-- [mikeneiderhauser/CRSFJoystick](https://github.com/mikeneiderhauser/CRSFJoystick) - Arduino code that runs on a Pi Pico (2040) to emulate a USB HID Joystick (2 months ago)
+- [mikeneiderhauser/CRSFJoystick](https://github.com/mikeneiderhauser/CRSFJoystick) - Arduino code that runs on a Pi Pico (2040) to emulate a USB HID Joystick (3 months ago)
 
 #### 📫 How to reach me
 
