@@ -28,9 +28,9 @@
 
 #### ⭐ Recent Stars
 
-- [mark-watson/langchain-book-examples](https://github.com/mark-watson/langchain-book-examples) - Example code for my book &#34;LangChain Project Lab Book: Hooking Large Language Models Up to the Real World&#34;  https://leanpub.com/langchain (1 day ago)
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (3 weeks ago)
-- [THUDM/P-tuning-v2](https://github.com/THUDM/P-tuning-v2) - An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks (3 weeks ago)
+- [mark-watson/langchain-book-examples](https://github.com/mark-watson/langchain-book-examples) - Example code for my book &#34;LangChain Project Lab Book: Hooking Large Language Models Up to the Real World&#34;  https://leanpub.com/langchain (2 days ago)
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (4 weeks ago)
+- [THUDM/P-tuning-v2](https://github.com/THUDM/P-tuning-v2) - An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks (4 weeks ago)
 - [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 (1 month ago)
 - [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition. (1 month ago)
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (2 months ago)
