@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. (4 days ago)
+- [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. (5 days ago)
 - [mark-watson/langchain-book-examples](https://github.com/mark-watson/langchain-book-examples) - Example code for my book &#34;LangChain Project Lab Book: Hooking Large Language Models Up to the Real World&#34;  https://leanpub.com/langchain (1 week ago)
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (1 month ago)
 - [THUDM/P-tuning-v2](https://github.com/THUDM/P-tuning-v2) - An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks (1 month ago)
