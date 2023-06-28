@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [stasi009/PracticalGuidetoRecSys](https://github.com/stasi009/PracticalGuidetoRecSys) - 《互联网大厂推荐算法实战》资料库 (4 days ago)
+- [stasi009/PracticalGuidetoRecSys](https://github.com/stasi009/PracticalGuidetoRecSys) - 《互联网大厂推荐算法实战》资料库 (5 days ago)
 - [Alibaba-NLP/Multi-CPR](https://github.com/Alibaba-NLP/Multi-CPR) - [SIGIR 2022] Multi-CPR: A Multi Domain Chinese Dataset for Passage Retrieval (1 week ago)
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. (2 weeks ago)
 - [mark-watson/langchain-book-examples](https://github.com/mark-watson/langchain-book-examples) - Example code for my book &#34;LangChain Project Lab Book: Hooking Large Language Models Up to the Real World&#34;  https://leanpub.com/langchain (2 weeks ago)
