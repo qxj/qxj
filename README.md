@@ -28,6 +28,8 @@
 
 #### ⭐ Recent Stars
 
+- [zjunlp/KnowLM](https://github.com/zjunlp/KnowLM) - Knowledgable Large Language Model Framework. (1 day ago)
+- [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C&#43;&#43; package manager (1 day ago)
 - [stasi009/PracticalGuidetoRecSys](https://github.com/stasi009/PracticalGuidetoRecSys) - 《互联网大厂推荐算法实战》资料库 (1 week ago)
 - [Alibaba-NLP/Multi-CPR](https://github.com/Alibaba-NLP/Multi-CPR) - [SIGIR 2022] Multi-CPR: A Multi Domain Chinese Dataset for Passage Retrieval (1 week ago)
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. (2 weeks ago)
@@ -36,8 +38,6 @@
 - [THUDM/P-tuning-v2](https://github.com/THUDM/P-tuning-v2) - An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks (1 month ago)
 - [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》 (1 month ago)
 - [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition. (1 month ago)
-- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 (3 months ago)
-- [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读 (3 months ago)
 
 #### 📫 How to reach me
 
