@@ -29,7 +29,7 @@
 #### ⭐ Recent Stars
 
 - [dayihengliu/KeyMultiHeadline](https://github.com/dayihengliu/KeyMultiHeadline) - Code for EMNLP2020 paper: &#34;Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation&#34; (2 weeks ago)
-- [zjunlp/KnowLM](https://github.com/zjunlp/KnowLM) - Knowledgable Large Language Model Framework. (3 weeks ago)
+- [zjunlp/KnowLM](https://github.com/zjunlp/KnowLM) - An Open-sourced Knowledgable Large Language Model Framework. (3 weeks ago)
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C&#43;&#43; package manager (3 weeks ago)
 - [stasi009/PracticalGuidetoRecSys](https://github.com/stasi009/PracticalGuidetoRecSys) - 《互联网大厂推荐算法实战》资料库 (1 month ago)
 - [Alibaba-NLP/Multi-CPR](https://github.com/Alibaba-NLP/Multi-CPR) - [SIGIR 2022] Multi-CPR: A Multi Domain Chinese Dataset for Passage Retrieval (1 month ago)
