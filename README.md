@@ -28,6 +28,8 @@
 
 #### ⭐ Recent Stars
 
+- [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University (1 day ago)
+- [DLLXW/baby-llama2-chinese](https://github.com/DLLXW/baby-llama2-chinese) - 用于从头预训练&#43;SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2. (1 day ago)
 - [dayihengliu/KeyMultiHeadline](https://github.com/dayihengliu/KeyMultiHeadline) - Code for EMNLP2020 paper: &#34;Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation&#34; (1 month ago)
 - [zjunlp/KnowLM](https://github.com/zjunlp/KnowLM) - An Open-sourced Knowledgable Large Language Model Framework. (2 months ago)
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C&#43;&#43; package manager (2 months ago)
@@ -36,8 +38,6 @@
 - [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. (2 months ago)
 - [mark-watson/langchain-book-examples](https://github.com/mark-watson/langchain-book-examples) - Example code for my book &#34;LangChain Project Lab Book: Hooking Large Language Models Up to the Real World&#34;  https://leanpub.com/langchain (2 months ago)
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. (3 months ago)
-- [THUDM/P-tuning-v2](https://github.com/THUDM/P-tuning-v2) - An optimized deep prompt tuning strategy comparable to fine-tuning across scales and tasks (3 months ago)
-- [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版 (3 months ago)
 
 #### 📫 How to reach me
 
