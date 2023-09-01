@@ -28,8 +28,8 @@
 
 #### ⭐ Recent Stars
 
-- [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University (2 days ago)
-- [DLLXW/baby-llama2-chinese](https://github.com/DLLXW/baby-llama2-chinese) - 用于从头预训练&#43;SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2. (2 days ago)
+- [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University (3 days ago)
+- [DLLXW/baby-llama2-chinese](https://github.com/DLLXW/baby-llama2-chinese) - 用于从头预训练&#43;SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2. (3 days ago)
 - [dayihengliu/KeyMultiHeadline](https://github.com/dayihengliu/KeyMultiHeadline) - Code for EMNLP2020 paper: &#34;Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation&#34; (1 month ago)
 - [zjunlp/KnowLM](https://github.com/zjunlp/KnowLM) - An Open-sourced Knowledgable Large Language Model Framework. (2 months ago)
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C&#43;&#43; package manager (2 months ago)
