@@ -33,7 +33,7 @@
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022 (2 months ago)
 - [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University (2 months ago)
 - [DLLXW/baby-llama2-chinese](https://github.com/DLLXW/baby-llama2-chinese) - 用于从头预训练&#43;SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2. (2 months ago)
-- [dayihengliu/KeyMultiHeadline](https://github.com/dayihengliu/KeyMultiHeadline) - Code for EMNLP2020 paper: &#34;Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation&#34; (3 months ago)
+- [dayihengliu/KeyMultiHeadline](https://github.com/dayihengliu/KeyMultiHeadline) - Code for EMNLP2020 paper: &#34;Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation&#34; (4 months ago)
 - [zjunlp/KnowLM](https://github.com/zjunlp/KnowLM) - An Open-sourced Knowledgable Large Language Model Framework. (4 months ago)
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C&#43;&#43; package manager (4 months ago)
 - [stasi009/PracticalGuidetoRecSys](https://github.com/stasi009/PracticalGuidetoRecSys) - 《互联网大厂推荐算法实战》资料库 (4 months ago)
