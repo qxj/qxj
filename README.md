@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (10 months ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [Tvirus/ebook](https://github.com/Tvirus/ebook) - 电子书 (1 day ago)
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly(流萤): 中文对话式大语言模型(全量微调&#43;QLoRA)，支持微调Mixtral-8x7B、Zephyr、Mistral、Aquila2、Baichuan2、CodeLlama、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom等大模型 (3 months ago)
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM) (3 months ago)
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022 (3 months ago)
@@ -37,7 +38,6 @@
 - [zjunlp/KnowLM](https://github.com/zjunlp/KnowLM) - An Open-sourced Knowledgable Large Language Model Framework. (5 months ago)
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C&#43;&#43; package manager (5 months ago)
 - [stasi009/PracticalGuidetoRecSys](https://github.com/stasi009/PracticalGuidetoRecSys) - 《互联网大厂推荐算法实战》资料库 (6 months ago)
-- [Alibaba-NLP/Multi-CPR](https://github.com/Alibaba-NLP/Multi-CPR) - [SIGIR 2022] Multi-CPR: A Multi Domain Chinese Dataset for Passage Retrieval (6 months ago)
 
 #### 📫 How to reach me
 
