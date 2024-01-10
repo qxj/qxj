@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [ZBayes/basic_rag](https://github.com/ZBayes/basic_rag) - basic framework for rag(retrieval augment generation) (1 day ago)
 - [Tvirus/ebook](https://github.com/Tvirus/ebook) - 电子书 (2 weeks ago)
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly(流萤): 中文对话式大语言模型(全量微调&#43;QLoRA)，支持微调Mixtral-8x7B、Zephyr、Mistral、Aquila2、Baichuan2、CodeLlama、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom等大模型 (3 months ago)
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM) (3 months ago)
@@ -37,7 +38,6 @@
 - [dayihengliu/KeyMultiHeadline](https://github.com/dayihengliu/KeyMultiHeadline) - Code for EMNLP2020 paper: &#34;Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation&#34; (6 months ago)
 - [zjunlp/KnowLM](https://github.com/zjunlp/KnowLM) - An Open-sourced Knowledgable Large Language Model Framework. (6 months ago)
 - [conan-io/conan](https://github.com/conan-io/conan) - Conan - The open-source C and C&#43;&#43; package manager (6 months ago)
-- [stasi009/PracticalGuidetoRecSys](https://github.com/stasi009/PracticalGuidetoRecSys) - 《互联网大厂推荐算法实战》资料库 (6 months ago)
 
 #### 📫 How to reach me
 
