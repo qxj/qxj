@@ -28,9 +28,9 @@
 
 #### ⭐ Recent Stars
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (2 days ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (3 days ago)
 - [ZBayes/basic_rag](https://github.com/ZBayes/basic_rag) - basic framework for rag(retrieval augment generation) (1 week ago)
-- [Tvirus/ebook](https://github.com/Tvirus/ebook) - 电子书 (3 weeks ago)
+- [Tvirus/ebook](https://github.com/Tvirus/ebook) - 电子书 (4 weeks ago)
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly(流萤): 中文对话式大语言模型(全量微调&#43;QLoRA)，支持微调Mixtral-8x7B、Zephyr、Mistral、Aquila2、Baichuan2、CodeLlama、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom等大模型 (4 months ago)
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Easy-to-use LLM fine-tuning framework (LLaMA, BLOOM, Mistral, Baichuan, Qwen, ChatGLM) (4 months ago)
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022 (4 months ago)
