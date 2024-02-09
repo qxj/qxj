@@ -32,7 +32,7 @@
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - 纯c&#43;&#43;的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000&#43;token / s，支持glm, llama, moss基座，手机端流畅运行 (2 weeks ago)
 - [kf-liu/The-Art-of-Linear-Algebra-zh-CN](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN) - Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34;, 线性代数的艺术中文版, 欢迎PR. (2 weeks ago)
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization! (2 weeks ago)
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (2 weeks ago)
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (3 weeks ago)
 - [ZBayes/basic_rag](https://github.com/ZBayes/basic_rag) - basic framework for rag(retrieval augment generation) (1 month ago)
 - [Tvirus/ebook](https://github.com/Tvirus/ebook) - 电子书 (1 month ago)
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型 (4 months ago)
