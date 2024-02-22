@@ -22,7 +22,7 @@
 #### 🔨 My recent Pull Requests
 
 - [typo fix](https://github.com/d2l-ai/d2l-zh/pull/999) on [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) (2 years ago)
-- [fix avahi compile error](https://github.com/coolsnowwolf/packages/pull/39) on [coolsnowwolf/packages](https://github.com/coolsnowwolf/packages) (3 years ago)
+- [fix avahi compile error](https://github.com/coolsnowwolf/packages/pull/39) on [coolsnowwolf/packages](https://github.com/coolsnowwolf/packages) (4 years ago)
 - [locate package configuration by name](https://github.com/jwiegley/use-package/pull/191) on [jwiegley/use-package](https://github.com/jwiegley/use-package) (9 years ago)
 
 #### ⭐ Recent Stars
