@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (1 day ago)
 
 #### 🌱 My latest projects
 
 - [qxj/car-rank](https://github.com/qxj/car-rank) - Car rank system for ppzc2015
 - [qxj/cs224n-2019](https://github.com/qxj/cs224n-2019) - http://web.stanford.edu/class/cs224n/
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git
-- [qxj/blog-image](https://github.com/qxj/blog-image) - 
 - [qxj/draw.io](https://github.com/qxj/draw.io) - draw.io personal storage
 - [qxj/ml-tools](https://github.com/qxj/ml-tools) - 
 - [qxj/sicp](https://github.com/qxj/sicp) - sicp solutions
 - [qxj/exp-sys-toy](https://github.com/qxj/exp-sys-toy) - 一个简单的分层实验系统
 - [qxj/plda](https://github.com/qxj/plda) - Automatically exported from code.google.com/p/plda
 - [qxj/jqian](https://github.com/qxj/jqian) - Automatically exported from code.google.com/p/jqian
+- [qxj/tumblr-mode](https://github.com/qxj/tumblr-mode) - An Emacs major mode for tumblr.com
 
 #### 🔭 Latest releases I've contributed to
 
