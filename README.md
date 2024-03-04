@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (1 day ago)
+- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包 (1 day ago)
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (1 month ago)
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training (1 month ago)
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - 纯c&#43;&#43;的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000&#43;token / s，支持glm, llama, moss基座，手机端流畅运行 (1 month ago)
@@ -37,7 +38,6 @@
 - [ZBayes/basic_rag](https://github.com/ZBayes/basic_rag) - basic framework for rag(retrieval augment generation) (1 month ago)
 - [Tvirus/ebook](https://github.com/Tvirus/ebook) - 电子书 (2 months ago)
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型 (5 months ago)
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-tuning of 100&#43; LLMs (5 months ago)
 
 #### 📫 How to reach me
 
