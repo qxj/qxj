@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (1 week ago)
+- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### ⭐ Recent Stars
 
-- [dailenson/SDT](https://github.com/dailenson/SDT) - This repository is the official implementation of Disentangling Writer and Character Styles for Handwriting Generation (CVPR23). (5 days ago)
+- [dailenson/SDT](https://github.com/dailenson/SDT) - This repository is the official implementation of Disentangling Writer and Character Styles for Handwriting Generation (CVPR23). (6 days ago)
 - [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包 (1 week ago)
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (1 month ago)
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training (1 month ago)
