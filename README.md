@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [ZiyaoGeng/RecLearn](https://github.com/ZiyaoGeng/RecLearn) - Recommender Learning with Tensorflow2.x (1 day ago)
 - [dailenson/SDT](https://github.com/dailenson/SDT) - This repository is the official implementation of Disentangling Writer and Character Styles for Handwriting Generation (CVPR23). (1 week ago)
 - [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包 (2 weeks ago)
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (1 month ago)
@@ -37,7 +38,6 @@
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization! (1 month ago)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C&#43;&#43; (2 months ago)
 - [ZBayes/basic_rag](https://github.com/ZBayes/basic_rag) - basic framework for rag(retrieval augment generation) (2 months ago)
-- [Tvirus/ebook](https://github.com/Tvirus/ebook) - 电子书 (2 months ago)
 
 #### 📫 How to reach me
 
