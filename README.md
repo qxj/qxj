@@ -28,6 +28,7 @@
 
 #### ⭐ Recent Stars
 
+- [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go, leaf and hysteria. (1 day ago)
 - [ZiyaoGeng/RecLearn](https://github.com/ZiyaoGeng/RecLearn) - Recommender Learning with Tensorflow2.x (2 months ago)
 - [dailenson/SDT](https://github.com/dailenson/SDT) - This repository is the official implementation of Disentangling Writer and Character Styles for Handwriting Generation (CVPR23). (3 months ago)
 - [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包 (3 months ago)
@@ -37,7 +38,6 @@
 - [kf-liu/The-Art-of-Linear-Algebra-zh-CN](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN) - Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34;, 线性代数的艺术中文版, 欢迎PR. (4 months ago)
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. (4 months ago)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C&#43;&#43; (4 months ago)
-- [ZBayes/basic_rag](https://github.com/ZBayes/basic_rag) - basic framework for rag(retrieval augment generation) (5 months ago)
 
 #### 📫 How to reach me
 
