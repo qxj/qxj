@@ -35,7 +35,7 @@
 - [ZiyaoGeng/RecLearn](https://github.com/ZiyaoGeng/RecLearn) - Recommender Learning with Tensorflow2.x (6 months ago)
 - [dailenson/SDT](https://github.com/dailenson/SDT) - This repository is the official implementation of Disentangling Writer and Character Styles for Handwriting Generation (CVPR 2023) (6 months ago)
 - [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包 (6 months ago)
-- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (7 months ago)
+- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (8 months ago)
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training (8 months ago)
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - 纯c&#43;&#43;的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000&#43;token / s，支持glm, llama, moss基座，手机端流畅运行 (8 months ago)
 - [kf-liu/The-Art-of-Linear-Algebra-zh-CN](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN) - Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34;, 线性代数的艺术中文版, 欢迎PR. (8 months ago)
