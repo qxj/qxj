@@ -30,6 +30,7 @@
 
 #### ⭐ Recent Stars
 
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 day ago)
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition） (3 months ago)
 - [huangsg1/uncertainty-calibration](https://github.com/huangsg1/uncertainty-calibration) - A collection of research and application papers of (uncertainty) calibration techniques. (6 months ago)
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf. (8 months ago)
@@ -39,7 +40,6 @@
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (1 year ago)
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training (1 year ago)
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - 纯c&#43;&#43;的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000&#43;token / s，支持glm, llama, moss基座，手机端流畅运行 (1 year ago)
-- [kf-liu/The-Art-of-Linear-Algebra-zh-CN](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN) - Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34;, 线性代数的艺术中文版, 欢迎PR. (1 year ago)
 
 #### 📫 How to reach me
 
