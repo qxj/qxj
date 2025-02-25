@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (11 months ago)
+- [qxj/qxj.github.com](https://github.com/qxj/qxj.github.com) - my website based on github pages (1 year ago)
 
 #### 🌱 My latest projects
 
