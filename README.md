@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things (3 days ago)
+- [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things (4 days ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (2 weeks ago)
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition） (4 months ago)
 - [huangsg1/uncertainty-calibration](https://github.com/huangsg1/uncertainty-calibration) - A collection of research and application papers of (uncertainty) calibration techniques. (7 months ago)
