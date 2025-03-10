@@ -21,15 +21,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/9) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (8 months ago)
-- [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/8) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (8 months ago)
+- [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/9) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (9 months ago)
+- [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/8) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (9 months ago)
 - [typo fix](https://github.com/d2l-ai/d2l-zh/pull/999) on [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) (3 years ago)
 - [fix avahi compile error](https://github.com/coolsnowwolf/packages/pull/39) on [coolsnowwolf/packages](https://github.com/coolsnowwolf/packages) (5 years ago)
 - [locate package configuration by name](https://github.com/jwiegley/use-package/pull/191) on [jwiegley/use-package](https://github.com/jwiegley/use-package) (10 years ago)
 
 #### ⭐ Recent Stars
 
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (3 days ago)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (4 days ago)
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things (1 week ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (3 weeks ago)
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition） (4 months ago)
