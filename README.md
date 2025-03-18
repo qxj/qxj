@@ -29,6 +29,7 @@
 
 #### ⭐ Recent Stars
 
+- [UlionTse/mlgb](https://github.com/UlionTse/mlgb) - MLGB is a library that includes many models of CTR Prediction &amp; Recommender System by TensorFlow &amp; PyTorch. 「妙计包」是一个包含50&#43;点击率预估和推荐系统深度模型的、通过TensorFlow和PyTorch撰写的库。 (1 day ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 week ago)
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things (2 weeks ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 month ago)
@@ -38,7 +39,6 @@
 - [ZiyaoGeng/RecLearn](https://github.com/ZiyaoGeng/RecLearn) - Recommender Learning with Tensorflow2.x (1 year ago)
 - [dailenson/SDT](https://github.com/dailenson/SDT) - This repository is the official implementation of Disentangling Writer and Character Styles for Handwriting Generation (CVPR 2023) (1 year ago)
 - [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包 (1 year ago)
-- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (1 year ago)
 
 #### 📫 How to reach me
 
