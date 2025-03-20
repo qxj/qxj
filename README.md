@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
-- [UlionTse/mlgb](https://github.com/UlionTse/mlgb) - MLGB is a library that includes many models of CTR Prediction &amp; Recommender System by TensorFlow &amp; PyTorch. 「妙计包」是一个包含50&#43;点击率预估和推荐系统深度模型的、通过TensorFlow和PyTorch撰写的库。 (2 days ago)
-- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 week ago)
+- [UlionTse/mlgb](https://github.com/UlionTse/mlgb) - MLGB is a library that includes many models of CTR Prediction &amp; Recommender System by TensorFlow &amp; PyTorch. 「妙计包」是一个包含50&#43;点击率预估和推荐系统深度模型的、通过TensorFlow和PyTorch撰写的库。 (3 days ago)
+- [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (2 weeks ago)
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things (3 weeks ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 month ago)
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition） (4 months ago)
