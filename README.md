@@ -29,15 +29,15 @@
 
 #### ⭐ Recent Stars
 
-- [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (4 days ago)
-- [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai (4 days ago)
+- [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (5 days ago)
+- [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai (5 days ago)
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python. (1 week ago)
 - [UlionTse/mlgb](https://github.com/UlionTse/mlgb) - MLGB is a library that includes many models of CTR Prediction &amp; Recommender System by TensorFlow &amp; PyTorch. 「妙计包」是一个包含50&#43;点击率预估和推荐系统深度模型的、通过TensorFlow和PyTorch撰写的库。 (1 week ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (3 weeks ago)
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things (1 month ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 month ago)
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition） (5 months ago)
-- [huangsg1/uncertainty-calibration](https://github.com/huangsg1/uncertainty-calibration) - A collection of research and application papers of (uncertainty) calibration techniques. (7 months ago)
+- [huangsg1/uncertainty-calibration](https://github.com/huangsg1/uncertainty-calibration) - A collection of research and application papers of (uncertainty) calibration techniques. (8 months ago)
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf. (9 months ago)
 
 #### 📫 How to reach me
