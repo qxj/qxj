@@ -33,7 +33,7 @@
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (3 weeks ago)
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai (3 weeks ago)
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python. (3 weeks ago)
-- [UlionTse/mlgb](https://github.com/UlionTse/mlgb) - MLGB is a library that includes many models of CTR Prediction &amp; Recommender System by TensorFlow &amp; PyTorch. 「妙计包」是一个包含50&#43;点击率预估和推荐系统深度模型的、通过TensorFlow和PyTorch撰写的库。 (4 weeks ago)
+- [UlionTse/mlgb](https://github.com/UlionTse/mlgb) - MLGB is a library that includes many models of CTR Prediction &amp; Recommender System by TensorFlow &amp; PyTorch. 「妙计包」是一个包含50&#43;点击率预估和推荐系统深度模型的、通过TensorFlow和PyTorch撰写的库。 (1 month ago)
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -  (1 month ago)
 - [karpathy/makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things (1 month ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (2 months ago)
