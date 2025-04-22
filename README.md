@@ -29,7 +29,7 @@
 
 #### ⭐ Recent Stars
 
-- [dhcode-cpp/X-R1](https://github.com/dhcode-cpp/X-R1) - minimal-cost for training 0.5B R1-Zero (2 weeks ago)
+- [dhcode-cpp/X-R1](https://github.com/dhcode-cpp/X-R1) - minimal-cost for training 0.5B R1-Zero (3 weeks ago)
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving (4 weeks ago)
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai (4 weeks ago)
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python. (1 month ago)
