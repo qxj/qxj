@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (1 day ago)
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (1 day ago)
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (2 days ago)
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos (2 days ago)
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale (2 weeks ago)
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs. (2 weeks ago)
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 (2 weeks ago)
