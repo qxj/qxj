@@ -29,6 +29,7 @@
 
 #### ⭐ Recent Stars
 
+- [WeijieH/D3keyHelper](https://github.com/WeijieH/D3keyHelper) - D3KeyHelper是一个有图形界面，可自定义配置的暗黑3鼠标宏工具。 (1 day ago)
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - ⚡FlashRAG: A Python Toolkit for Efficient RAG Research (WWW2025 Resource) (1 week ago)
 - [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Open-source tool to visualise your RAG 🔮 (1 week ago)
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming. (2 weeks ago)
@@ -38,7 +39,6 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs. (1 month ago)
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 (1 month ago)
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser &amp; Trae AI (And other Open Sourced) System Prompts, Tools &amp; AI Models. (1 month ago)
-- [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile (1 month ago)
 
 #### 📫 How to reach me
 
