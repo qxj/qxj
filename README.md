@@ -29,8 +29,8 @@
 
 #### ⭐ Recent Stars
 
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (2 weeks ago)
-- [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model (2 weeks ago)
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. (3 weeks ago)
+- [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model (3 weeks ago)
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent (3 weeks ago)
 - [WeijieH/D3keyHelper](https://github.com/WeijieH/D3keyHelper) - D3KeyHelper是一个有图形界面，可自定义配置的暗黑3鼠标宏工具。 (3 weeks ago)
 - [RUC-NLPIR/FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - ⚡FlashRAG: A Python Toolkit for Efficient RAG Research (WWW2025 Resource) (1 month ago)
