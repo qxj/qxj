@@ -30,7 +30,7 @@
 
 #### ⭐ Recent Stars
 
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (6 days ago)
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (1 week ago)
 - [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled &#34;Mathematical Foundations of Reinforcement Learning.&#34; (1 week ago)
 - [showlab/Code2Video](https://github.com/showlab/Code2Video) - Video generation via code (1 week ago)
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required (1 week ago)
