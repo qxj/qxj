@@ -21,7 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [UI opt, update menu bar &amp; app icon for macOS 15&#43;](https://github.com/ProfFan/Snap2LaTeX/pull/10) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (2 weeks ago)
+- [UI opt, update menu bar &amp; app icon for macOS 15&#43;](https://github.com/ProfFan/Snap2LaTeX/pull/10) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (3 weeks ago)
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/9) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (1 year ago)
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/8) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (1 year ago)
 - [typo fix](https://github.com/d2l-ai/d2l-zh/pull/999) on [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) (4 years ago)
@@ -31,7 +31,7 @@
 #### ⭐ Recent Stars
 
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (2 weeks ago)
-- [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled &#34;Mathematical Foundations of Reinforcement Learning.&#34; (2 weeks ago)
+- [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled &#34;Mathematical Foundations of Reinforcement Learning.&#34; (3 weeks ago)
 - [showlab/Code2Video](https://github.com/showlab/Code2Video) - Video generation via code (3 weeks ago)
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required (3 weeks ago)
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (3 weeks ago)
