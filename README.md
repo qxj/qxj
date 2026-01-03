@@ -38,9 +38,9 @@
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 month ago)
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (2 months ago)
 - [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - This is the homepage of a new book entitled &#34;Mathematical Foundations of Reinforcement Learning.&#34; (2 months ago)
-- [showlab/Code2Video](https://github.com/showlab/Code2Video) - Video generation via code (2 months ago)
-- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required (2 months ago)
-- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (2 months ago)
+- [showlab/Code2Video](https://github.com/showlab/Code2Video) - Video generation via code (3 months ago)
+- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required (3 months ago)
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 (3 months ago)
 
 #### 📫 How to reach me
 
