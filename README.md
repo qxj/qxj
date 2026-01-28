@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 day ago)
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 days ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (1 week ago)
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format (2 weeks ago)
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat &amp; pretrained large language model proposed by Alibaba Cloud. (3 weeks ago)
