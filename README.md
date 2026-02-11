@@ -26,7 +26,7 @@
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/9) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (2 years ago)
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/8) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (2 years ago)
 - [typo fix](https://github.com/d2l-ai/d2l-zh/pull/999) on [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) (4 years ago)
-- [fix avahi compile error](https://github.com/coolsnowwolf/packages/pull/39) on [coolsnowwolf/packages](https://github.com/coolsnowwolf/packages) (5 years ago)
+- [fix avahi compile error](https://github.com/coolsnowwolf/packages/pull/39) on [coolsnowwolf/packages](https://github.com/coolsnowwolf/packages) (6 years ago)
 - [locate package configuration by name](https://github.com/jwiegley/use-package/pull/191) on [jwiegley/use-package](https://github.com/jwiegley/use-package) (11 years ago)
 
 #### ⭐ Recent Stars
