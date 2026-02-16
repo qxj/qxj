@@ -31,8 +31,8 @@
 
 #### ⭐ Recent Stars
 
-- [wzhe06/SmartInvest](https://github.com/wzhe06/SmartInvest) - Smart Investing Examples (4 days ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
+- [wzhe06/SmartInvest](https://github.com/wzhe06/SmartInvest) - Smart Investing Examples (5 days ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (3 weeks ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (3 weeks ago)
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format (1 month ago)
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat &amp; pretrained large language model proposed by Alibaba Cloud. (1 month ago)
