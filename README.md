@@ -31,9 +31,9 @@
 
 #### ⭐ Recent Stars
 
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. (3 days ago)
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. (4 days ago)
 - [wzhe06/SmartInvest](https://github.com/wzhe06/SmartInvest) - Smart Investing Examples (1 week ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (3 weeks ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (4 weeks ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (1 month ago)
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format (1 month ago)
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat &amp; pretrained large language model proposed by Alibaba Cloud. (1 month ago)
