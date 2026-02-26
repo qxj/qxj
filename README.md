@@ -31,7 +31,7 @@
 
 #### ⭐ Recent Stars
 
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. (6 days ago)
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. (1 week ago)
 - [wzhe06/SmartInvest](https://github.com/wzhe06/SmartInvest) - Smart Investing Examples (2 weeks ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 month ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills (1 month ago)
