@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (4 days ago)
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (4 months ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (1 day ago)
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([2.10.2](https://github.com/haierkeys/fast-note-sync-service/releases/tag/2.10.2), 3 days ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([2.11.0](https://github.com/haierkeys/fast-note-sync-service/releases/tag/2.11.0), 1 day ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 
 #### 🔨 My recent Pull Requests
 
-- [为文件和笔记仓储接口添加分页支持，并在 Git 同步服务中实现批量处理，解决大仓库容易导致OOM问题](https://github.com/haierkeys/fast-note-sync-service/pull/178) on [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) (4 days ago)
+- [为文件和笔记仓储接口添加分页支持，并在 Git 同步服务中实现批量处理，解决大仓库容易导致OOM问题](https://github.com/haierkeys/fast-note-sync-service/pull/178) on [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) (5 days ago)
 - [UI opt, update menu bar &amp; app icon for macOS 15&#43;](https://github.com/ProfFan/Snap2LaTeX/pull/10) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (5 months ago)
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/9) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (2 years ago)
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/8) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (2 years ago)
@@ -34,11 +34,11 @@
 
 #### ⭐ Recent Stars
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (5 days ago)
-- [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click (6 days ago)
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (6 days ago)
+- [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click (1 week ago)
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode (4 weeks ago)
-- [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig (4 weeks ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (4 weeks ago)
+- [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig (1 month ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by! (1 month ago)
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. (1 month ago)
 - [wzhe06/SmartInvest](https://github.com/wzhe06/SmartInvest) - Smart Investing Examples (1 month ago)
