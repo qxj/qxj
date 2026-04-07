@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (3 days ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (4 days ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([2.11.3](https://github.com/haierkeys/fast-note-sync-service/releases/tag/2.11.3), 4 days ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([2.11.3](https://github.com/haierkeys/fast-note-sync-service/releases/tag/2.11.3), 5 days ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 
 #### 🔨 My recent Pull Requests
 
