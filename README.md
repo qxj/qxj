@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (5 days ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (6 days ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([2.11.6](https://github.com/haierkeys/fast-note-sync-service/releases/tag/2.11.6), 2 days ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([2.11.7](https://github.com/haierkeys/fast-note-sync-service/releases/tag/2.11.7), 1 day ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 
 #### 🔨 My recent Pull Requests
 
@@ -35,7 +35,7 @@
 #### ⭐ Recent Stars
 
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (2 weeks ago)
-- [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click (2 weeks ago)
+- [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click (3 weeks ago)
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode (1 month ago)
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig (1 month ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
