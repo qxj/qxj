@@ -27,5 +27,5 @@
 
 #### 📫 How to reach me
 
-- E-Mail: junist@gmail.com
+- E-Mail: jun.ist+github@gmail.com
 
