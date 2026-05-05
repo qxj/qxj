@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([2.13.6](https://github.com/haierkeys/fast-note-sync-service/releases/tag/2.13.6), 2 days ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([2.13.7](https://github.com/haierkeys/fast-note-sync-service/releases/tag/2.13.7), 1 day ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 
 #### 🔨 My recent Pull Requests
 
@@ -35,7 +35,7 @@
 
 #### ⭐ Recent Stars
 
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 week ago)
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (2 weeks ago)
 - [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstrations. (2 weeks ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (1 month ago)
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click (1 month ago)
