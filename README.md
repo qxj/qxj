@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (3 weeks ago)
+- [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (4 weeks ago)
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (1 month ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (2 months ago)
 
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.2.3](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.2.3), 3 days ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.3.0](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.3.0), 1 day ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 
 #### 🔨 My recent Pull Requests
 
@@ -35,7 +35,8 @@
 
 #### ⭐ Recent Stars
 
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (1 day ago)
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 (1 day ago)
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (2 days ago)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 month ago)
 - [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstrations. (1 month ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (2 months ago)
@@ -44,7 +45,6 @@
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig (3 months ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (3 months ago)
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by! (3 months ago)
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. (3 months ago)
 
 #### 📫 How to reach me
 
