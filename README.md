@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug: (5 days ago)
+- [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug: (6 days ago)
 - [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (1 month ago)
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (1 month ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (2 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.3.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.3.1), 1 day ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.3.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.3.1), 2 days ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) ([0.6.0](https://github.com/ProfFan/Snap2LaTeX/releases/tag/0.6.0), 2 years ago) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug:
 
 #### 🔨 My recent Pull Requests
@@ -37,9 +37,9 @@
 
 #### ⭐ Recent Stars
 
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  (2 days ago)
-- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 (3 days ago)
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (4 days ago)
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  (3 days ago)
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 (4 days ago)
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. (5 days ago)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 month ago)
 - [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstrations. (1 month ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (2 months ago)
