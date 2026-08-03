@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.0](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.0), 1 week ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.0](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.0), 2 weeks ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) ([0.6.0](https://github.com/ProfFan/Snap2LaTeX/releases/tag/0.6.0), 2 years ago) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug:
 
 #### 🔨 My recent Pull Requests
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent Stars
 
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work (1 day ago)
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work (2 days ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 month ago)
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  (1 month ago)
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 (1 month ago)
