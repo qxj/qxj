@@ -37,7 +37,7 @@
 
 #### ⭐ Recent Stars
 
-- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work (6 days ago)
+- [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work (1 week ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 month ago)
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  (2 months ago)
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 (2 months ago)
