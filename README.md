@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (4 days ago)
+- [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (5 days ago)
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (1 month ago)
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug: (2 months ago)
 - [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (3 months ago)
@@ -23,12 +23,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.1), 1 day ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.1), 2 days ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) ([0.6.0](https://github.com/ProfFan/Snap2LaTeX/releases/tag/0.6.0), 2 years ago) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug:
 
 #### 🔨 My recent Pull Requests
 
-- [投稿：京张先行 GREEN:LIGHT — 给AI场景开绿灯的城市通道、分级路权与可退出机制（qxj/jingzhang-green-light）](https://github.com/open-city-ai/haidian/pull/1623) on [open-city-ai/haidian](https://github.com/open-city-ai/haidian) (4 days ago)
+- [投稿：京张先行 GREEN:LIGHT — 给AI场景开绿灯的城市通道、分级路权与可退出机制（qxj/jingzhang-green-light）](https://github.com/open-city-ai/haidian/pull/1623) on [open-city-ai/haidian](https://github.com/open-city-ai/haidian) (5 days ago)
 - [为文件和笔记仓储接口添加分页支持，并在 Git 同步服务中实现批量处理，解决大仓库容易导致OOM问题](https://github.com/haierkeys/fast-note-sync-service/pull/178) on [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) (4 months ago)
 - [UI opt, update menu bar &amp; app icon for macOS 15&#43;](https://github.com/ProfFan/Snap2LaTeX/pull/10) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (10 months ago)
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/9) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (2 years ago)
@@ -39,8 +39,8 @@
 
 #### ⭐ Recent Stars
 
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 day ago)
-- [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (5 days ago)
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (2 days ago)
+- [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (6 days ago)
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. (2 weeks ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 months ago)
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  (2 months ago)
