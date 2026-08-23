@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (5 days ago)
+- [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (6 days ago)
 - [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (1 week ago)
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug: (2 months ago)
 - [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (3 months ago)
@@ -39,9 +39,9 @@
 
 #### ⭐ Recent Stars
 
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (today)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 day ago)
-- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (2 days ago)
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (1 day ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (2 days ago)
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (3 days ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 week ago)
 - [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (1 week ago)
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. (3 weeks ago)
