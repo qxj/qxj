@@ -39,9 +39,9 @@
 
 #### ⭐ Recent Stars
 
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (4 days ago)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (5 days ago)
-- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (6 days ago)
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (5 days ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (6 days ago)
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (1 week ago)
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 week ago)
 - [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (2 weeks ago)
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. (3 weeks ago)
