@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.1), 1 week ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.1), 2 weeks ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) ([0.6.0](https://github.com/ProfFan/Snap2LaTeX/releases/tag/0.6.0), 2 years ago) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug:
 
 #### 🔨 My recent Pull Requests
@@ -39,10 +39,10 @@
 
 #### ⭐ Recent Stars
 
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (5 days ago)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (6 days ago)
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (6 days ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 week ago)
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (1 week ago)
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 week ago)
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (2 weeks ago)
 - [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (2 weeks ago)
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. (3 weeks ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 months ago)
