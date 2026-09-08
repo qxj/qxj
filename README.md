@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (3 weeks ago)
-- [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (3 weeks ago)
+- [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (4 weeks ago)
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug: (3 months ago)
-- [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (3 months ago)
+- [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (4 months ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (5 months ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [投稿：京张先行 GREEN:LIGHT — 给AI场景开绿灯的城市通道、分级路权与可退出机制（qxj/jingzhang-green-light）](https://github.com/open-city-ai/haidian/pull/1623) on [open-city-ai/haidian](https://github.com/open-city-ai/haidian) (3 weeks ago)
+- [投稿：京张先行 GREEN:LIGHT — 给AI场景开绿灯的城市通道、分级路权与可退出机制（qxj/jingzhang-green-light）](https://github.com/open-city-ai/haidian/pull/1623) on [open-city-ai/haidian](https://github.com/open-city-ai/haidian) (4 weeks ago)
 - [为文件和笔记仓储接口添加分页支持，并在 Git 同步服务中实现批量处理，解决大仓库容易导致OOM问题](https://github.com/haierkeys/fast-note-sync-service/pull/178) on [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) (5 months ago)
 - [UI opt, update menu bar &amp; app icon for macOS 15&#43;](https://github.com/ProfFan/Snap2LaTeX/pull/10) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (11 months ago)
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/9) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (2 years ago)
@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL (3 days ago)
+- [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL (4 days ago)
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration (1 week ago)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (1 week ago)
 - [daizhige-org/daizhigev20](https://github.com/daizhige-org/daizhigev20) - 「殆知阁」中国古代文献原始数据（2026-08-22 更新） (1 week ago)
