@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.1), 4 weeks ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.1), 1 month ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) ([0.6.0](https://github.com/ProfFan/Snap2LaTeX/releases/tag/0.6.0), 2 years ago) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug:
 
 #### 🔨 My recent Pull Requests
@@ -40,13 +40,13 @@
 #### ⭐ Recent Stars
 
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL (1 week ago)
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine  (1 week ago)
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine  (2 weeks ago)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (2 weeks ago)
-- [daizhige-org/daizhigev20](https://github.com/daizhige-org/daizhigev20) - 「殆知阁」中国古代文献原始数据（2026-08-22 更新） (2 weeks ago)
+- [daizhige-org/daizhigev20](https://github.com/daizhige-org/daizhigev20) - 「殆知阁」中国古代文献原始数据（2026-09-12 更新） (2 weeks ago)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (3 weeks ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (3 weeks ago)
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (3 weeks ago)
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (4 weeks ago)
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. (1 month ago)
 - [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (1 month ago)
 - [yc-software/qm](https://github.com/yc-software/qm) - Multiplayer agent harness for work. (1 month ago)
 
