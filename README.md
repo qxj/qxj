@@ -43,7 +43,7 @@
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL (2 weeks ago)
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine  (3 weeks ago)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. (3 weeks ago)
-- [daizhige-org/daizhigev20](https://github.com/daizhige-org/daizhigev20) - 「殆知阁」中国古代文献原始数据（2026-09-12 更新） (3 weeks ago)
+- [daizhige-org/daizhigev20](https://github.com/daizhige-org/daizhigev20) - 「殆知阁」中国古代文献原始数据（2026-09-23 更新） (3 weeks ago)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (1 month ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 month ago)
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text (1 month ago)
