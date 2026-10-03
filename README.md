@@ -4,7 +4,7 @@
 
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (1 month ago)
 - [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (1 month ago)
-- [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug: (3 months ago)
+- [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug: (4 months ago)
 - [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (4 months ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (6 months ago)
 
@@ -30,7 +30,7 @@
 
 - [投稿：京张先行 GREEN:LIGHT — 给AI场景开绿灯的城市通道、分级路权与可退出机制（qxj/jingzhang-green-light）](https://github.com/open-city-ai/haidian/pull/1623) on [open-city-ai/haidian](https://github.com/open-city-ai/haidian) (1 month ago)
 - [为文件和笔记仓储接口添加分页支持，并在 Git 同步服务中实现批量处理，解决大仓库容易导致OOM问题](https://github.com/haierkeys/fast-note-sync-service/pull/178) on [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) (6 months ago)
-- [UI opt, update menu bar &amp; app icon for macOS 15&#43;](https://github.com/ProfFan/Snap2LaTeX/pull/10) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (11 months ago)
+- [UI opt, update menu bar &amp; app icon for macOS 15&#43;](https://github.com/ProfFan/Snap2LaTeX/pull/10) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (1 year ago)
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/9) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (2 years ago)
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/8) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (2 years ago)
 - [typo fix](https://github.com/d2l-ai/d2l-zh/pull/999) on [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) (4 years ago)
@@ -39,8 +39,8 @@
 
 #### ⭐ Recent Stars
 
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 (2 days ago)
-- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34; (2 days ago)
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 (3 days ago)
+- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34; (3 days ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (2 weeks ago)
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL (4 weeks ago)
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine  (1 month ago)
