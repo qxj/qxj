@@ -5,7 +5,7 @@
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (1 month ago)
 - [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (1 month ago)
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug: (4 months ago)
-- [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (4 months ago)
+- [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (5 months ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (6 months ago)
 
 #### 🌱 My latest projects
@@ -39,8 +39,8 @@
 
 #### ⭐ Recent Stars
 
-- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (3 days ago)
-- [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library (3 days ago)
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (4 days ago)
+- [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library (4 days ago)
 - [byoungd/up](https://github.com/byoungd/up) - 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth. (1 week ago)
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34; (1 week ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 weeks ago)
