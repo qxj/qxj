@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (1 month ago)
-- [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (1 month ago)
+- [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (2 months ago)
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug: (4 months ago)
 - [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (5 months ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (6 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [投稿：京张先行 GREEN:LIGHT — 给AI场景开绿灯的城市通道、分级路权与可退出机制（qxj/jingzhang-green-light）](https://github.com/open-city-ai/haidian/pull/1623) on [open-city-ai/haidian](https://github.com/open-city-ai/haidian) (1 month ago)
+- [投稿：京张先行 GREEN:LIGHT — 给AI场景开绿灯的城市通道、分级路权与可退出机制（qxj/jingzhang-green-light）](https://github.com/open-city-ai/haidian/pull/1623) on [open-city-ai/haidian](https://github.com/open-city-ai/haidian) (2 months ago)
 - [为文件和笔记仓储接口添加分页支持，并在 Git 同步服务中实现批量处理，解决大仓库容易导致OOM问题](https://github.com/haierkeys/fast-note-sync-service/pull/178) on [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) (6 months ago)
 - [UI opt, update menu bar &amp; app icon for macOS 15&#43;](https://github.com/ProfFan/Snap2LaTeX/pull/10) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (1 year ago)
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/9) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (2 years ago)
@@ -39,15 +39,15 @@
 
 #### ⭐ Recent Stars
 
-- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (5 days ago)
-- [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library (5 days ago)
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (6 days ago)
+- [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library (6 days ago)
 - [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 英语学习指南 离谱的人生 AI时代终身学习：AI、学习、创业与成长。 (1 week ago)
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34; (1 week ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 weeks ago)
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL (1 month ago)
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine  (1 month ago)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (1 month ago)
-- [daizhige-org/daizhigev20](https://github.com/daizhige-org/daizhigev20) - 「殆知阁」中国古代文献原始数据（2026-10-04 更新） (1 month ago)
+- [daizhige-org/daizhigev20](https://github.com/daizhige-org/daizhigev20) - 「殆知阁」中国古代文献原始数据（2026-10-08 更新） (1 month ago)
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (1 month ago)
 
 #### 📫 How to reach me
