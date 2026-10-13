@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.1), 1 month ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.1), 2 months ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) ([0.6.0](https://github.com/ProfFan/Snap2LaTeX/releases/tag/0.6.0), 2 years ago) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug:
 
 #### 🔨 My recent Pull Requests
@@ -39,12 +39,12 @@
 
 #### ⭐ Recent Stars
 
-- [TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation](https://github.com/TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation) -  (1 day ago)
+- [TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation](https://github.com/TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation) -  (2 days ago)
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (1 week ago)
 - [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library (1 week ago)
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。 (1 week ago)
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。 (1 week ago)
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34; (1 week ago)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (3 weeks ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (4 weeks ago)
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL (1 month ago)
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine  (1 month ago)
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. (1 month ago)
