@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [google-research/harness2](https://github.com/google-research/harness2) -  (5 days ago)
+- [google-research/harness2](https://github.com/google-research/harness2) -  (6 days ago)
 - [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Unified and Stable RSI Platform (1 week ago)
 - [TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation](https://github.com/TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation) -  (2 weeks ago)
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (3 weeks ago)
