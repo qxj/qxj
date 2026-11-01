@@ -41,9 +41,9 @@
 
 - [google-research/harness2](https://github.com/google-research/harness2) -  (1 week ago)
 - [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Unified and Stable RSI Platform (2 weeks ago)
-- [TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation](https://github.com/TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation) -  (2 weeks ago)
-- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (3 weeks ago)
-- [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library (3 weeks ago)
+- [TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation](https://github.com/TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation) -  (3 weeks ago)
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (4 weeks ago)
+- [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library (4 weeks ago)
 - [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生 (1 month ago)
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) - Graphic notes on Gilbert Strang&#39;s &#34;Linear Algebra for Everyone&#34; (1 month ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 month ago)
