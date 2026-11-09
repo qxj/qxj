@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [qxj/my-config](https://github.com/qxj/my-config) - Separated personal config files from https://github.com/qxj/jqian.git (2 months ago)
-- [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (2 months ago)
+- [open-city-ai/haidian](https://github.com/open-city-ai/haidian) -  (3 months ago)
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug: (5 months ago)
 - [qxj/copy-hyperlink](https://github.com/qxj/copy-hyperlink) - Google chrome extension: &#34;Copy hyperlink as Edge does&#34; https://chromewebstore.google.com/detail/pindpfknjjhmjdpgpfdempcnheecfkah (6 months ago)
 - [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform. (7 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [投稿：京张先行 GREEN:LIGHT — 给AI场景开绿灯的城市通道、分级路权与可退出机制（qxj/jingzhang-green-light）](https://github.com/open-city-ai/haidian/pull/1623) on [open-city-ai/haidian](https://github.com/open-city-ai/haidian) (2 months ago)
+- [投稿：京张先行 GREEN:LIGHT — 给AI场景开绿灯的城市通道、分级路权与可退出机制（qxj/jingzhang-green-light）](https://github.com/open-city-ai/haidian/pull/1623) on [open-city-ai/haidian](https://github.com/open-city-ai/haidian) (3 months ago)
 - [为文件和笔记仓储接口添加分页支持，并在 Git 同步服务中实现批量处理，解决大仓库容易导致OOM问题](https://github.com/haierkeys/fast-note-sync-service/pull/178) on [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) (7 months ago)
 - [UI opt, update menu bar &amp; app icon for macOS 15&#43;](https://github.com/ProfFan/Snap2LaTeX/pull/10) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (1 year ago)
 - [bugfix app crash when press ESC during screencapture](https://github.com/ProfFan/Snap2LaTeX/pull/9) on [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) (2 years ago)
@@ -39,9 +39,9 @@
 
 #### ⭐ Recent Stars
 
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client (1 day ago)
-- [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System (6 days ago)
-- [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. (6 days ago)
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client (2 days ago)
+- [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System (1 week ago)
+- [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. (1 week ago)
 - [google-research/harness2](https://github.com/google-research/harness2) -  (2 weeks ago)
 - [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Unified and Stable RSI Platform (3 weeks ago)
 - [TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation](https://github.com/TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation) -  (4 weeks ago)
