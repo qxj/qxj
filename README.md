@@ -39,12 +39,12 @@
 
 #### ⭐ Recent Stars
 
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client (2 days ago)
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client (3 days ago)
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System (1 week ago)
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. (1 week ago)
-- [google-research/harness2](https://github.com/google-research/harness2) -  (2 weeks ago)
+- [google-research/harness2](https://github.com/google-research/harness2) -  (3 weeks ago)
 - [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Unified and Stable RSI Platform (3 weeks ago)
-- [TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation](https://github.com/TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation) -  (4 weeks ago)
+- [TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation](https://github.com/TingfengLuo/Camera-Profile-for-Fujifilm-Film-Simulation) -  (1 month ago)
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents (1 month ago)
 - [gumyr/build123d](https://github.com/gumyr/build123d) - A python CAD programming library (1 month ago)
 - [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生 (1 month ago)
