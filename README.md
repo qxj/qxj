@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.1), 2 months ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
+- [haierkeys/fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) ([3.6.1](https://github.com/haierkeys/fast-note-sync-service/releases/tag/3.6.1), 3 months ago) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 - [ProfFan/Snap2LaTeX](https://github.com/ProfFan/Snap2LaTeX) ([0.6.0](https://github.com/ProfFan/Snap2LaTeX/releases/tag/0.6.0), 2 years ago) - A minimalist macOS app to convert a snap of Equation to LaTeX without paying :shrug:
 
 #### 🔨 My recent Pull Requests
@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client (4 days ago)
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client (5 days ago)
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System (1 week ago)
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. (1 week ago)
 - [google-research/harness2](https://github.com/google-research/harness2) -  (3 weeks ago)
