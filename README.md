@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) - Plug-in media player (2 weeks ago)
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - Plug-in media player (3 weeks ago)
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System (3 weeks ago)
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English. (3 weeks ago)
 - [google-research/harness2](https://github.com/google-research/harness2) -  (1 month ago)
